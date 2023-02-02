@@ -3,7 +3,7 @@
 * 프로젝트 선택
   * Project: Gradle Project
   * Language: Java
-  * Spring Boot: 2.4.4
+  * Spring Boot: 2.6.5
   * Packaging: Jar
   * Java: 11
   
